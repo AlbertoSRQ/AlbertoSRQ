@@ -150,7 +150,7 @@ Implementation of Kanban methodology via Trello for strategic task planning, tra
 ---
 
 ## Connect with me 💻:
-<a href="#" style="cursor: default;">
+<a href="https://linktr.ee/AlbertoSRQ" style="cursor: default;">
     <img src="https://i.imgur.com/dVEL5PQ.png" alt="Contact me and let's turn ideas into reality!">
 </a>
 
